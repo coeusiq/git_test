@@ -2,4 +2,6 @@ This is just a test to get comfortable with Git.
 
 I am developing on Neovim. Just got done setting up my config files (all in Lua).
 
-
+I really like how those plugins are improving my workflow.
+I am using Gitsigns and it is amazing how I can already see the incredible use case for it.
+Also, Vim's integrated spellchecker is great.
