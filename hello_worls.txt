@@ -1,0 +1,5 @@
+This is just a test to get comfortable with Git.
+
+I am developing on Neovim. Just got done setting up my config files (all in Lua).
+
+
